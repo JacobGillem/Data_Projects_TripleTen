@@ -1,0 +1,13 @@
+# TripleTen Project 1
+
+This is the first project I worked on with TripleTen to develop data cleaning skills necessary for data analysis
+
+## NYC AirBnB
+
+The goal was to analyze what was going to be profitable per neighborhood and borough in New York City, so that business decisions were applicable and reliable. 
+
+#### The Process
+
+I cleaned the data using techniques to verify, validify, and trim information in the cells provided to make accurate calculations within the analysis. This set up the next step of
+creating Pivot Tables that would then reveal keys points in the data that could show profit between neighborhoods in NYC. Then by calculating revenue earned within the top 10
+neighborhoods I was able to determine which one produced the most revenue. 
